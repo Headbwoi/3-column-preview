@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://headbwoi.github.io/3-column-preview)
-- Live Site URL: [Add live site URL here](https://headbwoi.github.io/3-column-preview/)
+- Solution URL: [https://headbwoi.github.io/3-column-preview]
+- Live Site URL: [https://headbwoi.github.io/3-column-preview/]
 
 ## My process
 
